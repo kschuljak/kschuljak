@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kschuljak/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge" />
+  </a>
+</div>
+
+
 
 <!--
 **kschuljak/kschuljak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
