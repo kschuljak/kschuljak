@@ -1,18 +1,12 @@
-<div id="header" align="center">
-  
-  <div id="Social Media Icons">
+
+<a href="https://www.linkedin.com/in/kschuljak">
+  <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="LinkedIn Icon" />
+</a>
     
-    <a href="https://www.linkedin.com/in/kschuljak">
-      <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="LinkedIn Icon" />
-    </a>
-    
-    <a href="https://codepen.io/kschuljak">
-      <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/codepen.svg" alt="CodePen Icon" />
-    </a>
-    
-  </div>
-  
-</div>
+<a href="https://codepen.io/kschuljak">
+  <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/codepen.svg" alt="CodePen Icon" />
+</a>
+
 
 
 :woman_technologist: 
