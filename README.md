@@ -1,6 +1,5 @@
 <div id="header">
-  <span>
-  <div id="name" align="left">
+  <div id="name" align="center">
     <h1>Katherine Schuljak</h1>
   </div>
   <div id="LinkedIn" align="right">
@@ -13,7 +12,6 @@
       <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="CodePen Badge" />
     </a>
   </div>
-  </span>
 </div>
 
 :woman_technologist: 
