@@ -1,4 +1,4 @@
-### Hi, I'm Katherine Schuljak  
+### Hi, I'm Katherine Schuljak.
   
 <div id="Social Icons">
   <span>SOCIALS: </span>
@@ -9,7 +9,7 @@
     <img width="30px" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/codepen.svg" alt="CodePen Icon" />
   </a>
 </div>
-   
+---   
 TECHNOLOGIES:
 <img width="30px" vspace="5" hspace="5" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" />
 <img width="30px" vspace="5" hspace="5" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" /> |
