@@ -2,8 +2,8 @@
 ---
   
   
-SOCIALS:
 <div id="Social Icons">
+  <span>SOCIALS: </span>
   <a href="https://www.linkedin.com/in/kschuljak">
     <img width="30px" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="LinkedIn Icon" />
   </a>  
