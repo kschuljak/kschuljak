@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Katherine Schuljak</h1>
+  <h1>Katherine Schuljak</h1> <p>(she/they)</p>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/kschuljak">
@@ -11,7 +11,7 @@
   </div>
 </div>
 
-:woman_technologist:
+:woman_technologist: 
 
 
 
