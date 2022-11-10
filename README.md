@@ -1,16 +1,16 @@
-
+<div id="header" align="center">
+  <div id="LinkedIn">
+    <a href="https://www.linkedin.com/in/kschuljak">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+    </a>
+  </div>
   
-    <div id="LinkedIn">
-      <a href="https://www.linkedin.com/in/kschuljak">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-      </a>
-    </div>
-  
-    <div id="CodePen">
-      <a href="https://codepen.io/kschuljak">
-        <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="CodePen Badge" />
-      </a>
-    </div>
+  <div id="CodePen">
+    <a href="https://codepen.io/kschuljak">
+      <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="CodePen Badge" />
+    </a>
+  </div>
+</div>
 
 
 :woman_technologist: 
