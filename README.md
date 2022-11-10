@@ -1,6 +1,5 @@
 <div id="header" align="center">
   
-  <div id="name" align="left">
     <p>Katherine Schuljak</p>
   
     <div id="LinkedIn" align="right">
