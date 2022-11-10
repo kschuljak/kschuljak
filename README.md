@@ -2,6 +2,7 @@
   <div id="LinkedIn">
     <a href="https://www.linkedin.com/in/kschuljak">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="LinkedIn Icon" />
     </a>
   </div>
   
