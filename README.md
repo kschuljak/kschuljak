@@ -1,4 +1,4 @@
-### Hi, I'm Katherine Schuljak.  
+### Hi, I'm KATHERINE SCHULJAK.  
 ---
   
   
