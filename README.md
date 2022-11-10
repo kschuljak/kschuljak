@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-    <p>Katherine Schuljak</p>
+    <h1>Katherine Schuljak</h1>
   
     <div id="LinkedIn" align="right">
       <a href="https://www.linkedin.com/in/kschuljak">
