@@ -1,8 +1,8 @@
 <div id="header">
-  <div id="name" align="center">
-    <h1>Katherine Schuljak</h1> <p>(she/they)</p>
+  <div id="name" align="left">
+    <h1>Katherine Schuljak</h1>
   </div>
-  <div id="badges">
+  <div id="badges" align="right">
     <a href="https://www.linkedin.com/in/kschuljak">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
     </a>
