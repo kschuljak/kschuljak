@@ -2,10 +2,12 @@
   <div id="name" align="left">
     <h1>Katherine Schuljak</h1>
   </div>
-  <div id="badges" align="right">
+  <div id="LinkedIn" align="right">
     <a href="https://www.linkedin.com/in/kschuljak">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
     </a>
+  </div>
+  <div id="CodePen" align="right">
     <a href="https://codepen.io/kschuljak">
       <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="CodePen Badge" />
     </a>
