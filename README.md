@@ -2,13 +2,13 @@
   
     <h1>Katherine Schuljak</h1>
   
-    <div id="LinkedIn" align="right">
+    <div id="LinkedIn">
       <a href="https://www.linkedin.com/in/kschuljak">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
       </a>
     </div>
   
-    <div id="CodePen" align="right">
+    <div id="CodePen">
       <a href="https://codepen.io/kschuljak">
         <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="CodePen Badge" />
       </a>
