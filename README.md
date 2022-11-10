@@ -1,10 +1,10 @@
 
 <div id="Social Icons">
   <a href="https://www.linkedin.com/in/kschuljak">
-    <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="LinkedIn Icon" />
+    <img width="40px" padding="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="LinkedIn Icon" />
   </a>  
   <a href="https://codepen.io/kschuljak">
-    <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/codepen.svg" alt="CodePen Icon" />
+    <img width="40px" padding="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/codepen.svg" alt="CodePen Icon" />
   </a>
 </div>
 
