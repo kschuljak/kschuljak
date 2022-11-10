@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  
-    <h1>Katherine Schuljak</h1>
+
   
     <div id="LinkedIn">
       <a href="https://www.linkedin.com/in/kschuljak">
@@ -13,10 +11,7 @@
         <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="CodePen Badge" />
       </a>
     </div>
-    
-  </div>
-  
-</div>
+
 
 :woman_technologist: 
 
