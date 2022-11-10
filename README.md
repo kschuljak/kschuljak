@@ -1,3 +1,4 @@
+Hi, I'm ### Katherine Schuljak.
 <div id="Intro">
   <a href="https://www.linkedin.com/in/kschuljak">
     <img width="30px" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="LinkedIn Icon" />
@@ -5,7 +6,6 @@
   <a href="https://codepen.io/kschuljak">
     <img width="30px" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/codepen.svg" alt="CodePen Icon" />
   </a>
-  <span>Hi, I'm <strong>Katherine Schuljak</strong>.</span>
 </div>
 
 
