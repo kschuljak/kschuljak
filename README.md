@@ -1,6 +1,4 @@
-### Hi, I'm KATHERINE SCHULJAK.  
----
-  
+### Hi, I'm Katherine Schuljak  
   
 <div id="Social Icons">
   <span>SOCIALS: </span>
