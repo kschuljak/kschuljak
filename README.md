@@ -1,4 +1,5 @@
 ## Hi, I'm Katherine Schuljak.
+Junior Developer with a focus on Web Development.  Currently working on a Java console app to randomly generate a D&D Character (using 5e rules).
   
 <div id="Social Icons">
   <span>SOCIALS: </span>
