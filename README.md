@@ -1,7 +1,7 @@
 ## Hi, I'm Katherine Schuljak.
 - Junior Developer with a focus on full stack Web Development.   
 - Currently working on: a Java console app to randomly generate a D&D Character (using 5e rules).
-- Last completed: a Java console app to randomly generate dice rolls (d4, d6, d8, d10, d12, d20, & d100), as well as give a sum total of multiple rolls for a single dice type (ex: 5d10).
+- Last completed: a Java console app to randomly generate dice rolls (d4, d6, d8, d10, d12, d20, & d100), as well as give a sum total of multiple rolls for a single dice type (example: roll d10 five times and return total).
   
 <div id="Social Icons">
   <span>SOCIALS: </span>
